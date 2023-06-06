@@ -1,0 +1,8 @@
+.idea
+.resourceCache
+*.iml
+target
+build
+gradle
+.gradle
+out
